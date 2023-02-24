@@ -1,1 +1,15 @@
 /* your code */
+
+
+  table thead tr th{
+            background-color: blue;
+            color: white;
+        }
+
+        table thead .sky{
+            background-color: skyblue;
+        }
+
+        table{
+            width: 495px;
+        }
